@@ -41,7 +41,4 @@ if (!defined('CAKE_CORE_INCLUDE_PATH')) {
 }
 
 require APP_DIR . DS . WEBROOT_DIR . DS . 'index.php';
-/**
- *  Get CakePHP's root directory
- */
 
